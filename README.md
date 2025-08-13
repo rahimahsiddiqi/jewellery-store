@@ -45,7 +45,6 @@ A full-stack MERN (MongoDB, Express.js, React.js, Node.js) e-commerce platform f
 - **MongoDB** - NoSQL database
 - **Mongoose** - MongoDB ODM
 - **Stripe** - Payment processing
-- **Helmet.js** - Security middleware
 - **CORS** - Cross-origin resource sharing
 
 ## 📁 Project Structure
