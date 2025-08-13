@@ -1,0 +1,25 @@
+{
+  "short_name": "Trinkets",
+  "name": "Trinkets - Premium Jewelry Store",
+  "icons": [
+    {
+      "src": "images/c888bc0354e8aff6c1a045e6d8161b94-Photoroom 2.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "images/c888bc0354e8aff6c1a045e6d8161b94-Photoroom 2.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "images/c888bc0354e8aff6c1a045e6d8161b94-Photoroom 2.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#8B6B6B",
+  "background_color": "#ffffff"
+} 
